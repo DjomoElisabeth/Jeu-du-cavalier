@@ -41,7 +41,7 @@
 - C# (.NET Windows Forms)
 - Visual Studio
 
-## Licence
+![Interface du jeu](https://raw.githubusercontent.com/DjomoElisabeth/Jeu-du-cavalier/main/screenshot.png)
 
-Ce projet est un exercice de simulation du problème du cavalier en programmation graphique.
+
 
