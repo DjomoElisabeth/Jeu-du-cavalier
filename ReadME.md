@@ -19,7 +19,8 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
 
 1. **Cloner le projet depuis GitHub** :
    ```sh
-   git clone https://github.com/ton-utilisateur/JeuDuCavalier.git
+   git clone https://github.com/DjomoElisabeth/Jeu-du-cavalier.git
+   
    ```
 2. **Ouvrir le projet dans Visual Studio** :
    - Aller dans **Fichier > Ouvrir > Projet/Solution**.
