@@ -1,9 +1,5 @@
 # Jeu du Cavalier (Windows Forms - C#)
 
-## Description
-
-Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un échiquier 8x8 en respectant les règles de déplacement des échecs. Le but du jeu est de parcourir toutes les cases de l'échiquier sans jamais passer deux fois sur la même case.
-
 ## Fonctionnalités
 
 - Affichage graphique d’un échiquier interactif.
