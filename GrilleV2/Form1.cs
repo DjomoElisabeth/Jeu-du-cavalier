@@ -256,8 +256,6 @@ namespace GrilleV2
 
         }
 
-
-
         //Gestion du click sur le bouton "Restart"
         private void button67_Click_1(object sender, EventArgs e)
         {
@@ -343,6 +341,8 @@ namespace GrilleV2
             button68.Enabled = false;
         }
 
+        
+
  /*********************** GESTION DES DÉPLACEMENTS ***********************************/
         /*sert a acalculer les coordonnées du bouton et afficher où le cavalier peut se déplacer*/
         private void CoordonneBtn(int x , int y)
@@ -388,10 +388,7 @@ namespace GrilleV2
         }
 
 
-
-
-
-        /******************************GESTION DE l'INTERFACE**********************************************/
+ /******************************GESTION DE l'INTERFACE**********************************************/
 
         //fonction qui gere la couleur de la grille
         //l'utilisateur peut changer la couleur de la grille
