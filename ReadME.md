@@ -24,7 +24,7 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
    ```
 2. **Ouvrir le projet dans Visual Studio** :
    - Aller dans **Fichier > Ouvrir > Projet/Solution**.
-   - Sélectionner le fichier `JeuDuCavalier.sln`.
+   - Sélectionner le fichier `Echuiquier.sln`.
 3. **Restaurer les packages NuGet** :
    - Aller dans **Outils > Gestionnaire de packages NuGet > Gérer les packages pour la solution**.
    - Installer les dépendances si nécessaire.
