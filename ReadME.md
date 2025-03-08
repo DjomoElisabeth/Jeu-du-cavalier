@@ -41,7 +41,7 @@
 - C# (.NET Windows Forms)
 - Visual Studio
 
-![Interface du jeu](https://raw.githubusercontent.com/DjomoElisabeth/Jeu-du-cavalier/main/screenshot.png)
+![Interface du jeu](https://raw.githubusercontent.com/DjomoElisabeth/Jeu-du-cavalier/main/Capture_Jeu_Du_Cavalier.PNG)
 
 
 
