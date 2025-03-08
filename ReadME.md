@@ -1,10 +1,12 @@
 # Jeu du Cavalier (Windows Forms - C#)
 
 ## Description
+
 Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un échiquier 8x8 en respectant les règles de déplacement des échecs. Le but du jeu est de parcourir toutes les cases de l'échiquier sans jamais passer deux fois sur la même case.
 
 
 ## Fonctionnalités
+
 - Affichage graphique d’un échiquier interactif.
 - Sélection d’une position de départ aléatoire ou définie par l’utilisateur.
 - Indication des déplacements valides du cavalier.
@@ -15,7 +17,24 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
 - Gestion de la fermeture sécurisée de l'application.
 
 
+## Installation
+
+1. **Cloner le projet depuis GitHub** :
+   ```sh
+   git clone https://github.com/ton-utilisateur/JeuDuCavalier.git
+   ```
+2. **Ouvrir le projet dans Visual Studio** :
+   - Aller dans **Fichier > Ouvrir > Projet/Solution**.
+   - Sélectionner le fichier `JeuDuCavalier.sln`.
+3. **Restaurer les packages NuGet** :
+   - Aller dans **Outils > Gestionnaire de packages NuGet > Gérer les packages pour la solution**.
+   - Installer les dépendances si nécessaire.
+4. **Compiler et exécuter** :
+   - Sélectionner **Debug** et cliquer sur **Exécuter** (`F5`).
+
+
 ## Utilisation
+
 1. Démarrer l’application.
 2. Choisir une position de départ manuelle ou aléatoire.
 3. Déplacer le cavalier en suivant les cases indiquées (`X`).
@@ -23,11 +42,15 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
 5. Utiliser Restart pour recommencer ou Retour pour annuler le dernier coup.
 6. Changer la couleur de la grille via le menu.
 
+
 ## Technologies utilisées
+
 - C# (.NET Windows Forms)
 - Visual Studio
+- GDI+ pour le rendu graphique
 
 
 ## Licence
+
 Ce projet est un exercice de simulation du problème du cavalier en programmation graphique.
 
