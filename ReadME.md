@@ -4,7 +4,6 @@
 
 Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un échiquier 8x8 en respectant les règles de déplacement des échecs. Le but du jeu est de parcourir toutes les cases de l'échiquier sans jamais passer deux fois sur la même case.
 
-
 ## Fonctionnalités
 
 - Affichage graphique d’un échiquier interactif.
@@ -15,7 +14,6 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
 - Option de retour en arrière d’un coup.
 - Personnalisation des couleurs de la grille.
 - Gestion de la fermeture sécurisée de l'application.
-
 
 ## Installation
 
@@ -32,7 +30,6 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
 4. **Compiler et exécuter** :
    - Sélectionner **Debug** et cliquer sur **Exécuter** (`F5`).
 
-
 ## Utilisation
 
 1. Démarrer l’application.
@@ -42,13 +39,10 @@ Cette application Windows Forms (C#) simule le parcours d'un cavalier sur un éc
 5. Utiliser Restart pour recommencer ou Retour pour annuler le dernier coup.
 6. Changer la couleur de la grille via le menu.
 
-
 ## Technologies utilisées
 
 - C# (.NET Windows Forms)
 - Visual Studio
-- GDI+ pour le rendu graphique
-
 
 ## Licence
 
