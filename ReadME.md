@@ -1,4 +1,5 @@
 # Jeu du Cavalier (Windows Forms - C#)
+![overview](./Capture_Jeu_Du_Cavalier.PNG)
 
 ## Fonctionnalités
 
